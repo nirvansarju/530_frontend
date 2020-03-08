@@ -1,3 +1,3 @@
 # Django/React Site Frontend
-the site can be visited here:
+The site can be visited at:
 https://term-project-2e367.firebaseapp.com/
